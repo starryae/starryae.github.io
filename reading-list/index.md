@@ -14,6 +14,4 @@ comments: false
 
 # History
 
-* [反欺骗的艺术]（http://book.douban.com/subject/25962840/）
-
-* [自控力](http://www.amazon.cn/dp/B008AGHPM2/)
+* [反欺骗的艺术](http://book.douban.com/subject/25962840/)
